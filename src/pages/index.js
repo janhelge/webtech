@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <Layout>
       <h1>Konsulentbistand</h1>
-      <p>Webtech kan hjelpe til med ...</p>
+      {/* <p className="mt-6">Mitt firma kan hjelpe ...</p> */}
       <table>
         <thead>
 
         <tr>
-          <th>...drift/devops</th>
-          <th>...utvikling</th>
-          <th>...integrasjoner</th>
+          <th>...med drift/devops</th>
+          <th>...med utvikling</th>
+          <th>...med felles statlige integrasjoner</th>
         </tr>
         </thead>
         <tbody>
