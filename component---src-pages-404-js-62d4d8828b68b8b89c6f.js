@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[883],{429:function(t,e,r){r.r(e),r.d(e,{default:function(){return u}});r(7294);var l=r(917);function u(){return(0,l.tZ)("div",null,"Default 404 page")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-62d4d8828b68b8b89c6f.js.map
