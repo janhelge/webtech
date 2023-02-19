@@ -3,3 +3,7 @@
     max-width: 1920px;
     padding: 10px;
   }
+  td {
+    /*background-color: blanchedalmond;*/
+    vertical-align: top;
+  }
